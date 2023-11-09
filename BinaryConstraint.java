@@ -1,5 +1,5 @@
 import java.util.* ;
-
+ 
 public final class BinaryConstraint {
   private int firstVar, secondVar ;
   private ArrayList<BinaryTuple> tuples ;
